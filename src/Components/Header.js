@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import ParticlesBg  from "particles-bg";
-
+import '../App.css'
 class Header extends Component {
   render() {
 
@@ -17,7 +17,8 @@ class Header extends Component {
 
     return (
       <header id="home">
-      <ParticlesBg type="circle" bg={true} />
+{/* <div className="bg"></div> */}
+      <ParticlesBg type="square" bg={true} />
       <nav id="nav-wrap">
          <a className="mobile-btn" href="#nav-wrap" title="Show navigation">Show navigation</a>
 	      <a className="mobile-btn" href="#home" title="Hide navigation">Hide navigation</a>
