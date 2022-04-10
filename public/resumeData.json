@@ -16,7 +16,7 @@
       "zip": "201312"
     },
     "website": "#",
-    "resumedownload":"#",
+    "resumedownload":"./ResumeMukulRai.pdf",
     "social":[
       {
         "name":"facebook",
@@ -48,17 +48,34 @@
   "resume":{
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
-      {"school":"Gautam Buddha University",
-        "degree":"B.Tech (Computer Science and Engineering) + M.Tech (Artificial Intelligence and Robotics)",
-        "graduated":"2022",
-        "description":"CSE comprises of the basic knowledge of computer programming and networking. The computer science experience will give ample knowledge about the implementation design and management of the entire information system in both the aspects- hardware as well as software."
+      {"school":"Gautam Buddha University , Greater Noida (Uttar Pradesh)",
+        "degree":"B.Tech (CSE) + M.Tech (Artificial Intelligence and Robotics)",
+        "graduated":"July 2017- July 2022",
+        "description":""
+      },
+      {"school":"M.D.A.S. +2 SS Dalayan, Gopalganj (Bihar)",
+        "degree":"Higher Secondary Certificate (Class12th)",
+        "graduated":"April 2015 - April 2017",
+        "description":""
+      }
+      ,
+      {"school":"Imperial Public School, Hathwa (Bihar)",
+        "degree":"Secondary School Certificate (Class 10th)",
+        "graduated":"April 2014 - April 2015",
+        "description":""
       }
     ],
     "work":[
       {
-        "company":"InstiBuddy",
-        "title":"Tech Head ",
+        "company":"Nityamukt",
+        "title":"Developer",
         "years":"June 2021 - Present",
+        "description":"Nityamukt is a global online/offline educational institute that is created by a highly motivated team of educators and engineers. "
+      },
+      {
+        "company":"InstiBuddy",
+        "title":"Tech Head & Developer",
+        "years":"June 2020 - May 2021",
         "description":"instiBuddy is a joint initiative taken by IIT Bombay students, professor and alumni that brings in well-experienced Mentors, who are students from different IITs, NITs, and other engineering colleges. You can have a face to face talk with the mentors and discuss your college-related doubts with them freely. We make sure that you get all of the information you need before you make the 'life-changing decision'."
       },
       {
