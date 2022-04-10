@@ -10,6 +10,7 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-ga": "^2.3.5",
+    "react-mouse-particles": "^1.1.5",
     "react-scripts": "^4.0.2"
   },
   "scripts": {

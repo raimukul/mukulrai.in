@@ -8,6 +8,7 @@ import About from './Components/About';
 import Resume from './Components/Resume';
 import Contact from './Components/Contact';
 import Portfolio from './Components/Portfolio';
+import MouseParticles from "react-mouse-particles";
 
 class App extends Component {
 
@@ -51,6 +52,12 @@ class App extends Component {
         <Portfolio data={this.state.resumeData.portfolio}/>
         <Contact data={this.state.resumeData.main}/>
         <Footer data={this.state.resumeData.main}/>
+        <MouseParticles
+          g={1}
+          color="random"
+          cull="MuiSvgIcon-root,MuiButton-root"
+          level={6}
+        />
       </div>
     );
   }
